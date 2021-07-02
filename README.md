@@ -6,12 +6,11 @@
   O teste consiste em construir a camada de serviço de um pseudo ecommerce de games mobile utilizando Java
 
 ## Como executar os testes
-
+  
   O projeto usa o maven wrapper (mvnw).
   Para executar os testes de exemplo basta o comando abaixo:
-
   ```sh
-./mvnw clean test
+  ./mvnw clean test
   ```
 
 ## Requisitos
